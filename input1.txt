@@ -1,0 +1,12 @@
+Jake, 18
+Susie, 98
+Ralph, 88
+Joey, 20
+Ralph, 99
+Susie, 81
+Jake, 33
+Ralph, 80
+Joey, 92
+Joey, 77
+Jake, 65
+Susie, 93
